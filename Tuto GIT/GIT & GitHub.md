@@ -5,3 +5,5 @@
 ### 2. Understand GIT using [GitKraken](https://www.youtube.com/watch?v=gjtXTm_TvvE)
 
 ### 3. How to collaborate with teams using [GitHub](https://www.youtube.com/watch?v=MnUd31TvBoU)
+
+### 4. Each time you're going to work in a repo, pull it before working !
